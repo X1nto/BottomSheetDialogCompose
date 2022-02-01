@@ -16,7 +16,7 @@ allprojects {
 Add OverlappingPanelsCompose dependency to app build.gradle
 ```groovy
 dependencies {
-    implementation 'com.github.X1nto:BottomSheetDialogCompose:1.0.0'
+    implementation 'com.github.X1nto:BottomSheetDialogCompose:1.0.1'
 }
 ```
 ### Kotlin DSL
@@ -32,7 +32,7 @@ allprojects {
 Add OverlappingPanelsCompose dependency to app build.gradle
 ```kotlin
 dependencies {
-    implementation("com.github.X1nto:BottomSheetDialogCompose:1.0.0")
+    implementation("com.github.X1nto:BottomSheetDialogCompose:1.0.1")
 }
 ```
 
